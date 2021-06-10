@@ -68,7 +68,7 @@
     "editorLink.activeForeground": "#2196F3",
     "editorOverviewRuler.border": "#7575754D",
     "editorOverviewRuler.commonContentForeground": "#424242",
-    "editorOverviewRuler.currentContentForeground": "#009688",
+    "editorOverviewRuler.currentContentForeground": "#00CCB4",
     "editorOverviewRuler.errorForeground": "#F44336",
     "editorOverviewRuler.findMatchForeground": "#FFC1077E",
     "editorOverviewRuler.incomingContentForeground": "#03A9F4",
@@ -126,8 +126,8 @@
     "menubar.selectionForeground": "#BDBDBD",
     "merge.commonContentBackground": "#424242",
     "merge.commonHeaderBackground": "#424242",
-    "merge.currentContentBackground": "#00968880",
-    "merge.currentHeaderBackground": "#00968880",
+    "merge.currentContentBackground": "#00CCB480",
+    "merge.currentHeaderBackground": "#00CCB480",
     "merge.incomingContentBackground": "#03A9F480",
     "merge.incomingHeaderBackground": "#03A9F480",
     "minimap.errorHighlight": "#F44336",
@@ -736,235 +736,235 @@
     {
       "scope": "meta.return-type",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "support.class",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "support.type",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "entity.other.attribute",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "entity.name.scope-resolution",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "entity.name.class",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.numeric.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.byte.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.boolean.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.string.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.uintptr.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.error.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.rune.go",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.generic.cs",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.modifier.cs",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.variable.cs",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.annotation.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.generic.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.object.array.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.primitive.array.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.primitive.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.token.java",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.annotation.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.parameters.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.generic.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.object.array.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.primitive.array.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "storage.type.primitive.groovy",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "meta.type.cast.expr",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "meta.type.new.expr",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "support.constant.dom",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#00CCB4"
       }
     },
     {
