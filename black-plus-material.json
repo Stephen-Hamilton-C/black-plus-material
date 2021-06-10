@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "colors": {
-    "activityBar.background": "#424242",
+    "activityBar.background": "#202020",
     "activityBar.dropBorder": "#FFFFFF",
     "activityBar.foreground": "#FFFFFF",
     "activityBar.inactiveForeground": "#FFFFFF66",
@@ -33,7 +33,7 @@
     "dropdown.background": "#424242",
     "dropdown.border": "#424242",
     "dropdown.foreground": "#EEEEEE",
-    "editor.background": "#101010",
+    "editor.background": "#000000",
     "editor.findMatchBackground": "#607D8B",
     "editor.findRangeHighlightBackground": "#21212166",
     "editor.foreground": "#9E9E9E",
@@ -165,13 +165,13 @@
     "scrollbarSlider.hoverBackground": "#757575B3",
     "searchEditor.findMatchBackground": "#FF5722A8",
     "searchEditor.findMatchBorder": "#FF5722A8",
-    "sideBar.background": "#212121",
+    "sideBar.background": "#101010",
     "sideBar.dropBackground": "#607D8B80",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.border": "#BDBDBD33",
     "sideBarTitle.foreground": "#9E9E9E",
-    "statusBar.background": "#2196F3",
-    "statusBar.foreground": "#FFFFFF",
+    "statusBar.background": "#0A70C2",
+    "statusBar.foreground": "#E0E0E0",
     "statusBar.noFolderBackground": "#673AB7",
     "statusBar.noFolderForeground": "#FFFFFF",
     "statusBarItem.activeBackground": "#FFFFFF2E",
@@ -207,7 +207,7 @@
     "titleBar.inactiveForeground": "#BDBDBD99",
     "widget.shadow": "#0000005C"
   },
-  "name": "Dark+ Material",
+  "name": "Black+ Material",
   "tokenColors": [
     {
       "scope": "meta.embedded",
