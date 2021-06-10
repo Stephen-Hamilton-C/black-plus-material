@@ -1,6 +1,6 @@
 # Black+ Material
 
-A fork of vangware's Dark+ Material
+A fork of vangware's [Dark+ Material](https://github.com/vangware/dark-plus-material) theme
 
 ## Reason behind this
 
