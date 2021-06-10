@@ -1,39 +1,21 @@
-# Dark+ Material
+# Black+ Material
 
-![Dark+ Material logo](https://i.imgur.com/dbU1a3i.png)
+A fork of vangware's Dark+ Material
 
 ## Reason behind this
 
-I really love the default Dark+ Theme that comes with Visual Studio Code, but also love the Material Design Palette. The thing is I didn't found a good material theme (the coloring is always ugly for my taste). So I made this theme that implements the Material Design Palette in the Dark+ theme that comes with Visual Studio Code.
-
-## How is this theme updated?
-
-When VSCode makes an update, I run a script that takes the code from the VSCode repository, pipes it trough a mapping function and it results in the json file for this theme:
-
-```plain
-VSCode update -> mapping (1 VSCode color => 1 Material color) -> Dark+ Material update.
-```
+I work a lot in Angular, and the Angular Material theme has really grown on me. I decided to try and make VS Code look more like the Angular apps I was creating. I stumbled upon vangware's Dark+ Material theme and it was almost perfect. I prefer black themes over dark themes, and Dark+ Material had a dark grey background and very dim highlighting for classes. So, I decided to fork the theme and make my own modifications, having absolutely no knowledge of how to fork repos, let alone create a VS Code theme.
 
 ## Screenshots
 
-### JavaScript
-
-![JavaScript example](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/javascript.png)
-
-### LESS
-
-![LESS example](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/less.png)
-
-### TypeScript
-
-![TypeScript example](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/typescript.png)
+### Screenshots coming soon
 
 ## Installing
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash
-ext install dark-plus-material
+ext install black-plus-material
 ```
 
 ## Recommended Plugins and settings
