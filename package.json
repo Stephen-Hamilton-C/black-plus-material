@@ -65,7 +65,7 @@
     "vscode"
   ],
   "license": "MIT",
-  "publisher": "Stephen Hamilton",
+  "publisher": "Stephen-Hamilton",
   "repository": {
     "type": "git",
     "url": "https://github.com/Stephen-Hamilton-C/black-plus-material"
@@ -78,5 +78,6 @@
   },
   "scripts": {
     "update": "ts-node ./src/update.ts"
-  }
+  },
+  "dependencies": {}
 }
