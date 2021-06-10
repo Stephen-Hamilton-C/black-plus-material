@@ -12,11 +12,7 @@ I work a lot in Angular, and the Angular Material theme has really grown on me. 
 
 ## Installing
 
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
-
-```bash
-ext install black-plus-material
-```
+Not yet available on the VS Code Extensions Marketplace
 
 ## Recommended Plugins and settings
 
