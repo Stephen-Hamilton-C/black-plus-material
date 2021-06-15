@@ -12,9 +12,9 @@ I work a lot in Angular, and the Angular Material theme has really grown on me. 
 
 ## Installing
 
-Not yet available on the VS Code Extensions Marketplace. You can find a pre-built VSIX package in [releases](https://github.com/Stephen-Hamilton-C/black-plus-material/releases)
+Not yet available on the VS Code Extensions Marketplace. You can find a pre-built VSIX package in [releases](https://github.com/Stephen-Hamilton-C/black-plus-material/releases/latest)
 
 ## Recommended Plugins and settings
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) (by [Philipp Kief](https://github.com/PKief)): Beautiful icon theme that looks awesome with this theme.
-- [FiraCode](https://github.com/tonsky/FiraCode) (by [Nikita Prokopov](https://github.com/tonsky)): The best code ligature font I found, used in the screenshots.
+- [FiraCode](https://github.com/tonsky/FiraCode) (by [Nikita Prokopov](https://github.com/tonsky)): The best code ligature font vangware found, used in the screenshots.
