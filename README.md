@@ -12,7 +12,7 @@ I work a lot in Angular, and the Angular Material theme has really grown on me. 
 
 ## Installing
 
-Not yet available on the VS Code Extensions Marketplace
+Not yet available on the VS Code Extensions Marketplace. You can find a pre-built VSIX package in [releases](https://github.com/Stephen-Hamilton-C/black-plus-material/releases)
 
 ## Recommended Plugins and settings
 
