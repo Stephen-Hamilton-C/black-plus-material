@@ -1,6 +1,6 @@
 # Black+ Material
 
-A fork of vangware's [Dark+ Material](https://github.com/vangware/dark-plus-material) theme
+A fork of vangware's [Dark+ Material](https://github.com/vangware/dark-plus-material) theme. He wrote all of this code, I just do CTRL+F and replace colors to my liking.
 
 ## Reason behind this
 
