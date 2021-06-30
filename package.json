@@ -1,7 +1,7 @@
 {
   "name": "black-plus-material",
   "description": "A fork of Dark+ Material, but more black themed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Stephen Hamilton",
     "url": "https://github.com/Stephen-Hamilton-C/"
@@ -64,7 +64,7 @@
     "vscode"
   ],
   "license": "MIT",
-  "publisher": "Stephen-Hamilton",
+  "publisher": "Stephen-Hamilton-C",
   "repository": {
     "type": "git",
     "url": "https://github.com/Stephen-Hamilton-C/black-plus-material"
