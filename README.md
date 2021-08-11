@@ -8,7 +8,15 @@ I work a lot in Angular, and the Angular Material theme has really grown on me. 
 
 ## Screenshots
 
-### Screenshots coming soon
+### JavaScript
+![Image of how JavaScript looks with the theme](https://raw.githubusercontent.com/Stephen-Hamilton-C/black-plus-material/main/examples/example.js.png)
+
+### LESS
+![Image of how LESS looks with the theme](https://raw.githubusercontent.com/Stephen-Hamilton-C/black-plus-material/main/examples/example.less.png)
+
+### TypeScript
+![Image of how TypeScript looks with the theme](https://raw.githubusercontent.com/Stephen-Hamilton-C/black-plus-material/main/examples/example.ts.png)
+
 
 ## Installing
 
